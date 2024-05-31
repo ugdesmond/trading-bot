@@ -1,0 +1,2 @@
+INFO:root:Trying to open the file
+WARNING:apscheduler.scheduler:Execution of job "performArbitrageTask (trigger: interval[0:00:05], next run at: 2018-04-30 16:29:20 WAT)" skipped: maximum number of running instances reached (1)

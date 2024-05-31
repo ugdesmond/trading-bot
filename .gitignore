@@ -1,0 +1,8 @@
+/app/static
+/.hg
+/.idea
+/app/Util
+/app/BitfinanceBuisnessLogic
+/app/BittrexBuisnessLogic
+/app/rest_api
+/app/templates
